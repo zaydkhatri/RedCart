@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RedCart/static/css/main.6ba8a4aa.css",
+    "main.js": "/RedCart/static/js/main.6f036a48.js",
+    "index.html": "/RedCart/index.html",
+    "main.6ba8a4aa.css.map": "/RedCart/static/css/main.6ba8a4aa.css.map",
+    "main.6f036a48.js.map": "/RedCart/static/js/main.6f036a48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ba8a4aa.css",
+    "static/js/main.6f036a48.js"
+  ]
+}
