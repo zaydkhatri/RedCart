@@ -73,7 +73,7 @@ const Footer = (props) => {
           <p>Copyright 	&copy; 2019 All Rights Reserved by RIPL.</p>
 
           <div className="legal__links">
-            Develop & Design By Zayd, Lukmaan & Noman 2022
+            Develop & Design By Zayd 2022
           </div>
         </div>
       </footer>
