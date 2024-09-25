@@ -1,4 +1,5 @@
 import React, { Fragment } from "react";
+import moment from "moment";
 
 const Footer = (props) => {
   return (
@@ -8,7 +9,9 @@ const Footer = (props) => {
           <h1 className="footer__logo">Redcart</h1>
           {/* <h2>Registered Office Address:</h2> */}
           <p>RedCart Internet Private Limited,</p>
-          <p>Xyz, near abc.</p>
+          <p>409, Rajshree Centre, Near Kalagodha, Sayajigaunj,</p>
+          <p>Vadodra 390020,</p>
+          <p>Gujarat, India</p>
           <p>Mail Us: <a href="mailto:mzaydk@gmail.com">redcart.support@gmail.com</a></p>
         </div>
 
@@ -73,7 +76,8 @@ const Footer = (props) => {
           <p>Copyright 	&copy; 2019 All Rights Reserved by RIPL.</p>
 
           <div className="legal__links">
-            Develop & Design By Zayd 2022
+            Develop & Design By Aarksoft Webtech
+            {/* {moment().format("YYYY")} */}
           </div>
         </div>
       </footer>
